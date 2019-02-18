@@ -1,0 +1,13 @@
+Drivetrain:
+    2 Motors for each side
+    Each side is controlled by a stick on the controller (forward and backward)
+    Controller bumpers are for changing speed settings (RB for increase, LB for decrease)
+
+Pnuematics:
+    2 double solenoids for the pnuematic system
+    Y-button is for extending it out
+    A-button is for contracting it in
+
+Intake:
+    1 Motor for the intake changing
+    B-button is for activating the motor (hold it down to fire the motor, release the stop it)
